@@ -1,14 +1,22 @@
 [
     {
-        "titulo": "Wall Street está em níveis mais altos do que antes da guerra; por quê?",
+        "titulo": "OpenAI investe US$ 4 bi em nova unidade para impulsionar IA corporativa",
+        "link": "https://www.cnnbrasil.com.br/economia/negocios/openai-investe-us-4-bi-em-nova-unidade-para-impulsionar-ia-corporativa/"
+    },
+    {
+        "titulo": "A IA pode se tornar sua amiga? Entenda a opiniÃ£o dos especialistas",
+        "link": "https://www.cnnbrasil.com.br/tecnologia/a-ia-pode-se-tornar-sua-amiga-entenda-a-opiniao-dos-especialistas/"
+    },
+    {
+        "titulo": "Wall Street estÃ¡ em nÃ­veis mais altos do que antes da guerra; por quÃª?",
         "link": "https://www.cnnbrasil.com.br/economia/mercado/wall-street-esta-em-niveis-mais-altos-do-que-antes-da-guerra-por-que/"
     },
     {
-        "titulo": "IA desafia eleição, mas cenário de desconfiança nas urnas deve ser menor",
+        "titulo": "IA desafia eleiÃ§Ã£o, mas cenÃ¡rio de desconfianÃ§a nas urnas deve ser menor",
         "link": "https://www.cnnbrasil.com.br/eleicoes/ia-desafia-eleicao-mas-cenario-de-desconfianca-nas-urnas-deve-ser-menor/"
     },
     {
-        "titulo": "Arquivo de IA do Google Chrome pode ocupar muita memória do computador",
+        "titulo": "Arquivo de IA do Google Chrome pode ocupar muita memÃ³ria do computador",
         "link": "https://www.cnnbrasil.com.br/tecnologia/arquivo-de-ia-do-google-chrome-pode-ocupar-muita-memoria-do-computador/"
     },
     {
@@ -16,27 +24,19 @@
         "link": "https://www.cnnbrasil.com.br/economia/mercado/wall-street-08-maio-2026/"
     },
     {
-        "titulo": "Na contramão do Oscar, Globo de Ouro anuncia regras relacionadas a IA",
+        "titulo": "Na contramÃ£o do Oscar, Globo de Ouro anuncia regras relacionadas a IA",
         "link": "https://www.cnnbrasil.com.br/entretenimento/na-contramao-do-oscar-globo-de-ouro-anuncia-regras-relacionadas-a-ia/"
     },
     {
-        "titulo": "60% dos brasileiros confiam na inteligência artificial para gerir gastos",
+        "titulo": "60% dos brasileiros confiam na inteligÃªncia artificial para gerir gastos",
         "link": "https://www.cnnbrasil.com.br/branded-content/economia/negocios/60-dos-brasileiros-confiam-na-inteligencia-artificial-para-gerir-gastos/"
     },
     {
-        "titulo": "UE e parlamentares fecham acordo provisório sobre regras para IA",
+        "titulo": "UE e parlamentares fecham acordo provisÃ³rio sobre regras para IA",
         "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/ue-e-parlamentares-fecham-acordo-provisorio-sobre-regras-para-ia/"
     },
     {
-        "titulo": "Ações da Arm caem com desafios sobre IA e mercado de smartphones frágil",
+        "titulo": "AÃ§Ãµes da Arm caem com desafios sobre IA e mercado de smartphones frÃ¡gil",
         "link": "https://www.cnnbrasil.com.br/economia/mercado/acoes-da-arm-caem-com-desafios-sobre-ia-e-mercado-de-smartphones-fragil/"
-    },
-    {
-        "titulo": "Atualizações de saúde da IA do Google revelam seu plano de concorrência",
-        "link": "https://www.cnnbrasil.com.br/tecnologia/atualizacoes-de-saude-da-ia-do-google-revelam-seu-plano-de-concorrencia/"
-    },
-    {
-        "titulo": "IA pode ajudar a reduzir incidentes cibernéticos, diz FMI",
-        "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/ia-pode-ajudar-a-reduzir-incidentes-ciberneticos-por-meio-de-coordenacao-internacional-diz-fmi/"
     }
 ]
