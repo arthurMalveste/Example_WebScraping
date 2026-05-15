@@ -3,6 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+
 def webscraping(url, tag_dad, tag_son, class_name_son=None, class_name_dad=None):
     driver = webdriver.Chrome()
     driver.get(url)
@@ -75,6 +76,8 @@ webscraping(
     class_name_dad=None
 )
 
+# -----------------------------------Config para o site da EXAME-----------------------------------
+
 # url2 = 'https://exame.com/inteligencia-artificial/'
 # webscraping(
 #     url=url2, 
@@ -84,7 +87,8 @@ webscraping(
 #     class_name_dad='sc-c7f3f647-9 cSIPEY election_undefined'
 # )
 
-# -----------------------------------Web Crwaler para o site da CNN Brasil-----------------------------------
+#-----------------------------------------------------------------------
+
 
 
 
