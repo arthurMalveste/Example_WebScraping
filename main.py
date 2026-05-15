@@ -76,6 +76,8 @@ webscraping(
     class_name_dad=None
 )
 
+
+
 # -----------------------------------Config para o site da EXAME-----------------------------------
 
 # url2 = 'https://exame.com/inteligencia-artificial/'

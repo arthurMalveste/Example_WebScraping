@@ -30,6 +30,12 @@ for noticia in noticias:
         texto = noticia.get('conteudo', 'Sem conteúdo')
         # O st.write entende textos longos e faz a quebra de linha certinha
         st.write(texto)
+
+    if st.button("Resumir com IA", key=noticia['titulo']):
+        from llm import resumir_texto_com_ia
+        resumo = resumir_texto_com_ia(texto)
+        st.markdown("**Resumo gerado pela IA:**")
+        st.write(resumo)
     
     # Espaçamento extra entre uma notícia e outra
     st.write("")
